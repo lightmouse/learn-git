@@ -1,3 +1,2 @@
 # learn-git
-It's in dev-branch.
-
+It's in master-branch.
